@@ -6,7 +6,7 @@ do-what it says works the way it is described in the homework's instructions
 
 i've chosen to use inquirer prompts for everything else so it is more fun to use, and more interactive
 
-her is a video if it in action 
+##### here is a video if it in action 
 https://drive.google.com/open?id=1Y2SEkucdCZGBXYcLGw5UjUUnQGLfUPia
 
 to run the program type in the following:
@@ -52,7 +52,12 @@ all of the information provided from these three functions will be logged in a f
 <img width="849" alt="Screen Shot 2019-04-15 at 4 43 31 PM" src="https://user-images.githubusercontent.com/46004362/56165653-8529e700-5fa1-11e9-9df4-e2329de3fed9.png">
 
 # doWhatItSays()
-if the program is run as follows ```node liri.js do-what-it-says``` this function will split the information in the ```random.txt``` file at the comma, then use the first part of the split array as the command and the second part as the input for whatever function it calls
+if the program is run like this ```node liri.js do-what-it-says``` instead of just ```node liri.js``` this function will split the information in the ```random.txt``` file at the comma, then use the first part of the split array as the command and the second part as the input for whatever function it calls
+
+<img width="297" alt="Screen Shot 2019-04-15 at 5 14 47 PM" src="https://user-images.githubusercontent.com/46004362/56165849-06817980-5fa2-11e9-8d79-d4a868668d96.png">
+
+<img width="524" alt="Screen Shot 2019-04-15 at 5 15 00 PM" src="https://user-images.githubusercontent.com/46004362/56165875-1ac57680-5fa2-11e9-9656-b1acaed2e99f.png">
+
 
 # reset()
 this program will prompt you to search for something else or exit the program 
