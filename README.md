@@ -9,7 +9,8 @@ i've chosen to use inquirer prompts for everything else so it is more fun to use
 ##### here is a video if it in action 
 https://drive.google.com/open?id=1Y2SEkucdCZGBXYcLGw5UjUUnQGLfUPia
 
-to run the program type in the following:
+to run the program make sure you're requiring colors, inquirer, axios, and spotify,
+then type in the following:
 
 <img width="489" alt="Screen Shot 2019-04-15 at 4 41 50 PM" src="https://user-images.githubusercontent.com/46004362/56165357-b9e96e80-5fa0-11e9-96e5-c30f23a65e4e.png">
 
