@@ -9,4 +9,4 @@ i've chosen to use inquirer prompts for everything else so it is more fun to use
 her is a video if it in action 
 https://drive.google.com/open?id=1Y2SEkucdCZGBXYcLGw5UjUUnQGLfUPia
 
-![alt text](./Screen Shot 2019-04-15 at 4.41.32 PM.png)
+![alt text](Screen Shot 2019-04-15 at 4.41.32 PM.png?raw=true "functions")
