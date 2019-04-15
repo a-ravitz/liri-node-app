@@ -1,54 +1,28 @@
-yspotify-this-song - searched: Mon Apr 15 2019 16:24:03 GMT-0400
-
-Artist Name: Buckethead
-Track Name: Soothsayer (dedicated to Aunt Suzie)
-Album Name: Crime Slunk Scene
-Preview Link: https://open.spotify.com/album/0Rw0SfgpXWwQEyA7zf2Ta0
-
--------------------------
-
-movie-this - searched: Mon Apr 15 2019 16:24:30 GMT-0400
-
-Movie Title: Cheaper by the Dozen
-Release Date: 25 Dec 2003
-IMDB Rating: 5.9
-Rotten Tomatoes Rating: 24%
-Produced In: USA
-Languages: undefined
-Performers: Steve Martin, Bonnie Hunt, Piper Perabo, Tom Welling
-Plot: With his wife doing a book tour, a father of twelve must handle a new job and his unstable brood.
-
--------------------------
-
-concert-this - searched: Mon Apr 15 2019 16:25:25 GMT-0400
-
-Name of band: cher
+concert-this - searched: Mon Apr 15 2019 16:42:00 GMT-0400
+Name of band: cher
 Name Of Venue: PPG Paints Arena
 Location Of Venue: Pittsburgh, United States
 Date Of Performance: 2019-04-18T19:30:00
 
 -------------------------
-
-Name Of Venue: Wells Fargo Center
+Name Of Venue: Wells Fargo Center
 Location Of Venue: Philadelphia, United States
 Date Of Performance: 2019-04-20T20:00:00
 
 -------------------------
-
-Name Of Venue: Scotiabank Arena
+Name Of Venue: Scotiabank Arena
 Location Of Venue: Toronto, Canada
 Date Of Performance: 2019-04-22T19:30:00
 
 -------------------------
-
-spotify-this-song - searched: Mon Apr 15 2019 16:26:15 GMT-0400
-Artist Name: Finger Eleven
-Track Name: Paralyzer
-Album Name: Them Vs. You Vs. Me (Deluxe Edition)
-Preview Link: https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ
+spotify-this-song - searched: Mon Apr 15 2019 16:42:33 GMT-0400
+Artist Name: The Darkness
+Track Name: I Believe in a Thing Called Love
+Album Name: Permission To Land
+Preview Link: https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM
 
 -------------------------
-movie-this - searched: Mon Apr 15 2019 16:26:34 GMT-0400
+movie-this - searched: Mon Apr 15 2019 16:42:55 GMT-0400
 Movie Title: Blankman
 Release Date: 19 Aug 1994
 IMDB Rating: 4.9
