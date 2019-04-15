@@ -9,4 +9,7 @@ i've chosen to use inquirer prompts for everything else so it is more fun to use
 her is a video if it in action 
 https://drive.google.com/open?id=1Y2SEkucdCZGBXYcLGw5UjUUnQGLfUPia
 
-![picture](Screen Shot 2019-04-15 at 4.41.32 PM.png)
+##here you can see the functions
+
+<img width="567" alt="Screen Shot 2019-04-15 at 4 41 32 PM" src="https://user-images.githubusercontent.com/46004362/56164840-8e19b900-5f9f-11e9-947e-40a647667994.png">
+
